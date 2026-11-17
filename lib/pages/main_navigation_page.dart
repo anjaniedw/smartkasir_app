@@ -80,7 +80,7 @@ class _MainNavigationPageState extends State<MainNavigationPage> {
           backgroundColor: Colors.white,
 
           // Warna tema utama Navy (#1E3A8A) saat tab dalam kondisi aktif dipilih
-          selectedItemColor: const Color(0xFF1E3A8A),
+          selectedItemColor: const Color(0xFF550000),
 
           // Warna abu-abu netral untuk tab yang sedang tidak aktif
           unselectedItemColor: Colors.grey.shade500,
